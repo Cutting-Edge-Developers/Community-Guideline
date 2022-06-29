@@ -12,7 +12,7 @@ Bunların haricinde, topluluğumuzla ilgili önemli gelişmeler ve duyurular, #a
 
 Yazılım ve tasarım ile ilgili sormak istediğiniz sorular ya da edinmek istediğiniz bilgiler varsa, sunucumuzda bulunan kategorileri ve kanalları kontrol etmenizi öneririz.
 
-[_Cutting Edge Discord_]([https://www.github.com](https://discord.gg/9mGCASx5U7))
+[_Cutting Edge Discord_](https://discord.gg/9mGCASx5U7)
 
 <br />
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></center>
